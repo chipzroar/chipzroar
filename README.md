@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/9e7987f541514f69bf257279e80cd21a.png?r=afo" width="400" alt="Kenjie's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Kenjie Balona</h1>
 <h3 align="center">Jack of all trades, master of none</h3>
 
