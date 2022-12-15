@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenjie</h1>
-<a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/9e7987f541514f69bf257279e80cd21a.png?r=afo" width="200" alt="Kenjie's Dev Card"/></a>
+<a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/9e7987f541514f69bf257279e80cd21a.png?r=afo" width="300" alt="Kenjie's Dev Card"/></a>
 <h3 align="center">Jack of all trades, master of none</h3>
 
 - 🌱 I’m currently learning **Threejs**
