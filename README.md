@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenjie</h1>
+<img align="right" src="./img/coding.gif" width="400" alt="Coding"/>
 <a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/9e7987f541514f69bf257279e80cd21a.png?r=afo" width="300" alt="Kenjie's Dev Card"/></a>
-<img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="300" alt="Coding"/>
-
 
 <h3 align="center">Jack of all trades, master of none</h3>
 
