@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenjie</h1>
 <img align="right" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="400" alt="Coding"/>
-<a href="https://app.daily.dev/chipzroar"><img src="https://github.com/kenjiebalona/kenjiebalona/blob/main/devcard.svg" width="400" alt="Kenjie's Dev Card"/></a>
+<a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/v2/Q8RcuTTQ88xD9fOLiB2Xm.png?r=rgc" width="356" alt="Kenjie's Dev Card"/></a>
 <br>
 <a href="https://www.codewars.com/users/chipzroar"><img src="https://www.codewars.com/users/chipzroar/badges/small" alt="Codewars"/></a>
 
