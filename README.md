@@ -1,5 +1,4 @@
 <div align="center" width='100%'>
-  <img align="right" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="400" alt="Coding"/>
   <a href="https://app.daily.dev/chipzroar"><img src="https://api.daily.dev/devcards/v2/Q8RcuTTQ88xD9fOLiB2Xm.png?type=wide&r=eyc" width="652" alt="Kenjie's Dev Card"/></a>
 
   <a href="https://www.codewars.com/users/chipzroar">  
