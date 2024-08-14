@@ -5,7 +5,7 @@
     <img src="https://www.codewars.com/users/chipzroar/badges/large" alt="Codewars"/>
   </a>
 
-  <h1><a align='center' width='100%' href="https://kenjie.vercel.app/">Please Click Here!</a></h1>
+  <h1><a align='center' width='100%' href="https://kenjie.xyz/">Please Click Here!</a></h1>
 </div>
 
 <h3 align="center">Blockchain and AI Enthusiast & Developer</h3>
