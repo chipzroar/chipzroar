@@ -10,7 +10,6 @@
 
 <h3 align="center">Blockchain and AI Enthusiast & Developer</h3>
 <div align='center' width='100%'>
-  <p>🌱 I’m currently learning <strong>Solana and smart contract development</strong></p>
   <p>📫 How to reach me <strong>kbalona5@gmail.com</strong></p>
   <p>⚡ Fun fact <strong>I'm a paradox</strong></p>
 </div>
