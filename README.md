@@ -8,7 +8,7 @@
   <h1><a align='center' width='100%' href="https://kenjie.xyz/">Please Click Here!</a></h1>
 </div>
 
-<h3 align="center">Blockchain and AI Enthusiast & Developer</h3>
+<h3 align="center">Passionate about Coding Tools & Productivity</h3>
 <div align='center' width='100%'>
   <p>📫 How to reach me <strong>kbalona5@gmail.com</strong></p>
   <p>⚡ Fun fact <strong>I'm a paradox</strong></p>
